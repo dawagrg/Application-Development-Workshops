@@ -1,0 +1,14 @@
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\bin\Debug\net10.0\Task 1.exe
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\bin\Debug\net10.0\Task 1.deps.json
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\bin\Debug\net10.0\Task 1.runtimeconfig.json
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\bin\Debug\net10.0\Task 1.dll
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\bin\Debug\net10.0\Task 1.pdb
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfoInputs.cache
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfo.cs
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.csproj.CoreCompileInputs.cache
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.dll
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\refint\Task 1.dll
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.pdb
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\Task 1.genruntimeconfig.cache
+D:\BIT Assessments\Year 3\Application Development\Workshop_2\Workshop 2\Task 1\obj\Debug\net10.0\ref\Task 1.dll
