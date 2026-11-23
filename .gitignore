@@ -1,17 +1,11 @@
-# .NET build output
+# .NET build files
 bin/
 obj/
 
-# Visual Studio
-.vs/
-
-# JetBrains Rider
+# IDE files
 .idea/
+.vs/
 
 # User-specific files
 *.user
 *.suo
-
-# OS files
-.DS_Store
-Thumbs.db
