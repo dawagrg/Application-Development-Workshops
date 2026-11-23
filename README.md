@@ -1,50 +1,42 @@
-\# Application Development Workshops
+Application Development Workshops
 
 
 
-This repository contains practical workshop exercises completed as part of the Application Development module.
+This repository contains workshop tasks and practical exercises completed as part of the Application Development module.
 
 
 
-\## Workshops
+The repository is organized into separate folders for each workshop, with each folder containing its respective tasks, source code, and project files.
 
 
 
-\### Workshop 2
+Technologies and Tools
+
+C#
+
+.NET 10
+
+JetBrains Rider
+
+Git
+
+GitHub
 
 
 
-Workshop 2 contains C# and .NET programming tasks.
+Purpose
 
 
 
-\- Task 1
-
-\- Task 2
-
-\- Task 3
-
-\- Task 4
-
-\- Task 5
-
-\- Task 6
+The purpose of this repository is to organize, maintain, and track the practical workshop tasks completed throughout the Application Development module.
 
 
 
-\## Technologies
+Author
 
 
 
-\- C#
-
-\- .NET
-
-\- .NET 10
-
-\- JetBrains Rider
-
-\- Git and GitHub
+Dhawa Tamu Gurung
 
 
 
