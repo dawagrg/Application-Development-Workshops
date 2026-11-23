@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 6\\Task 6.csproj": {}
+    "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 6\\Task 6.csproj": {}
   },
   "projects": {
-    "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 6\\Task 6.csproj": {
+    "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 6\\Task 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 6\\Task 6.csproj",
+        "projectUniqueName": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 6\\Task 6.csproj",
         "projectName": "Task 6",
-        "projectPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 6\\Task 6.csproj",
+        "projectPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 6\\Task 6.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 6\\obj\\",
+        "outputPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

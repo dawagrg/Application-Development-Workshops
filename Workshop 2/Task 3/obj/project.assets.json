@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 3\\Task 3.csproj",
+      "projectUniqueName": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 3\\Task 3.csproj",
       "projectName": "Task 3",
-      "projectPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 3\\Task 3.csproj",
+      "projectPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 3\\Task 3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop_2\\Workshop 2\\Task 3\\obj\\",
+      "outputPath": "D:\\BIT Assessments\\Year 3\\Application Development\\Workshop\\Workshop 2\\Task 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
